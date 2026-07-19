@@ -1,0 +1,1 @@
+This project is a Python-based and ML based smart microgrid simulator for a 400-house village. It uses AI logic to balance rooftop solar and central biogas based on time and weather. Built with Streamlit and Plotly, it features real-time energy monitoring and decentralized peer-to-peer power trading.
